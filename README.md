@@ -13,8 +13,10 @@ As the series progresses, the main character will encounter various characters, 
 # Reference materials:
 Teacher Fu Black Soul tutorial:
 https://www.bilibili.com/video/BV1qp411Z7qt/?spm_id_from=333.337.search-card.all.click&vd_source=1b58d9f865de3a28762a37a ab1776f71
+
 Mix and Jam:
 https://www.youtube.com/watch?v=M-3P59GtRW4
+
 Omar A. Balfaqih:
 https://www.youtube.com/watch?v=PxdoBJBCcrw&t=0s
 
@@ -27,3 +29,18 @@ Report3: https://www.youtube.com/watch?v=fwsKQ-tKrfU
 
 Report4: https://www.youtube.com/watch?v=L0fxJL-5Hcs&t=2s
 
+# Implement Functions 
+1. character movement
+
+2. perspective locking
+
+3. weapon equipment
+
+4. attack
+
+5. defense
+
+6. throwing
+
+7. enemy tracking
+   
