@@ -10,16 +10,6 @@ The main character is an unknown brave man with amnesia who comes to life on the
 Players will take control of the protagonist's adventures in this dark and dangerous world. Like Dark Souls 3, the gameplay will be challenging, full of combat and exploration. The protagonist can use his sacred sword for a variety of battles, including throwing the sword and flying back like Leviathan's axe in God of War. This sacred weapon enables the protagonist to engage in fierce battles with gangsters, knights and thieves, and gradually unravel the mysteries of this world.
 As the series progresses, the main character will encounter various characters, including a righteous knight hiding in the shadows, a ruthless gangster leader, and the keeper of the Memendrons. The protagonist must grow through battles and puzzles, rebuild his lost memories, and change the fate of this fallen little dock and fortress forever.
 
-# Reference materials:
-Teacher Fu Black Soul tutorial:
-https://www.bilibili.com/video/BV1qp411Z7qt/?spm_id_from=333.337.search-card.all.click&vd_source=1b58d9f865de3a28762a37a ab1776f71
-
-Mix and Jam:
-https://www.youtube.com/watch?v=M-3P59GtRW4
-
-Omar A. Balfaqih:
-https://www.youtube.com/watch?v=PxdoBJBCcrw&t=0s
-
 # Development report and detailed game function introduction (video)
 Report1: https://www.youtube.com/watch?v=mc8EeStLX7A&t=21s
 
@@ -30,17 +20,29 @@ Report3: https://www.youtube.com/watch?v=fwsKQ-tKrfU
 Report4: https://www.youtube.com/watch?v=L0fxJL-5Hcs&t=2s
 
 # Implement Functions 
-1. character movement
+1. Character movement
 
-2. perspective locking
+2. Perspective locking
 
-3. weapon equipment
+3. Weapon equipment
 
-4. attack
+4. Attack
 
-5. defense
+5. Defense
 
-6. throwing
+6. Throwing weapon
 
-7. enemy tracking
+7. Enemy tracking
+
+
+
+# Reference materials:
+Teacher Fu Black Soul tutorial:
+https://www.bilibili.com/video/BV1qp411Z7qt/?spm_id_from=333.337.search-card.all.click&vd_source=1b58d9f865de3a28762a37aab1776f71
+
+Mix and Jam:
+https://www.youtube.com/watch?v=M-3P59GtRW4
+
+Omar A. Balfaqih:
+https://www.youtube.com/watch?v=PxdoBJBCcrw&t=0s
    
