@@ -1,16 +1,22 @@
 # Darker-than-Black-Script
 This is the final project for the CPS4881 Independent Study: Unity Developing course at Wenzhou-Kean University
 
-# Demo video
+![image](https://github.com/APieceOfToast123/Darker-than-Black-Script/assets/121993898/53715db3-1da1-4692-9244-20db5b1870db)
+
+
+# Game Assets Zip (Google Drive)
+https://drive.google.com/file/d/1u-FRvy2eIpKbGfGvvnzc-0RbLeI1_lpo/view?usp=drive_link
+
+# Demo Video
 https://www.youtube.com/watch?v=KYkdzjfkSVU&t=60s
 
-# Story background:
+# Story Background:
 In a medieval world plunged into darkness and corruption, a small pier and fortress become a stronghold of collusion between thieves, gangsters and knights. This small pier was once a thriving trading center, but with the influx of evil forces, it became a corner of chaos, depravity and oblivion.
 The main character is an unknown brave man with amnesia who comes to life on the beach at the pier with only a mysterious sword at his side. The sword exudes a divine glow and is said to have been given by the ancient gods with incredible power. The protagonist realizes that his mission is to liberate the small dock and fortress ruled by evil forces, and retrieve his lost memories.
 Players will take control of the protagonist's adventures in this dark and dangerous world. Like Dark Souls 3, the gameplay will be challenging, full of combat and exploration. The protagonist can use his sacred sword for a variety of battles, including throwing the sword and flying back like Leviathan's axe in God of War. This sacred weapon enables the protagonist to engage in fierce battles with gangsters, knights and thieves, and gradually unravel the mysteries of this world.
 As the series progresses, the main character will encounter various characters, including a righteous knight hiding in the shadows, a ruthless gangster leader, and the keeper of the Memendrons. The protagonist must grow through battles and puzzles, rebuild his lost memories, and change the fate of this fallen little dock and fortress forever.
 
-# Development report and detailed game function introduction (video)
+# Development Report and Detailed Game Function Introduction (video)
 Report1: https://www.youtube.com/watch?v=mc8EeStLX7A&t=21s
 
 Report2: https://www.youtube.com/watch?v=EBOh4tX45jY
